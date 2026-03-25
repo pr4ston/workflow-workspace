@@ -1,4 +1,0 @@
-Client: Apex Sports Group
-Date: March 25, 2026
-
-Apex has requested a proposal for automating their weekly pipeline report. They currently produce it manually every Friday, which takes about 3 hours. They use HubSpot for their CRM and want the report delivered as a formatted PDF to three stakeholders by 8am each Monday.
