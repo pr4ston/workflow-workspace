@@ -1,5 +1,7 @@
 # Weekly Inbox Summary — 2026-03-25
 
+**Total files:** 3
+
 | File | Date Added | Description |
 |------|------------|-------------|
 | client-brief-apex.txt | 2026-03-25 | Apex Sports Group has requested a proposal to automate their weekly pipeline report, currently a 3-hour manual process, delivered as a formatted PDF to three stakeholders by 8am each Monday via HubSpot. |
